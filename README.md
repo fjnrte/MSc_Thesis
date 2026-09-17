@@ -9,7 +9,7 @@ University of Groningen, 2026
 
 **Supervisor:** Prof. Anupam Mazumdar
 
-[**View the full thesis (PDF)**](./MSc_Thesis_Vlad_Haralambie_Ispas.pdf)
+[**View the full thesis (PDF)**](./MScQPThesis_Vlad_Haralambie_Ispas.pdf)
 
 ## Summary
 
